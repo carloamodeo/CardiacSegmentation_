@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: rvseg
+Version: 0.1
+Summary: Right ventricle cardiac MRI segmentation challenge
+Home-page: http://github.com/chuckyee/cardiac-segmentation
+Author: Chuck-Hou Yee
+Author-email: chuckyee@gmail.com
+License: MIT
+License-File: LICENSE
